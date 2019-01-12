@@ -2,5 +2,6 @@
 
 (defn foo
   "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+  [x y]
+  (println x "Hello, World!")
+  (println y "My name is vikram"))
